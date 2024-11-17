@@ -20,7 +20,7 @@
 | unique_code      | VARCHAR(50)  | Codice univoco per fatturazione       |
 | creation_date    | DATETIME     | Data di registrazione del cliente      |
 
----
+--- 
 
 ### 2. **Cars** (`cars`)
 | Field           | Type         | Description                            |
